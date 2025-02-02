@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# 🎈 SuperMarket Analysis App
 
 A simple Streamlit app template for you to modify!
 
